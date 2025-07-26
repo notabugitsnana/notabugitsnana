@@ -1,4 +1,4 @@
-# shovna here, and this is where I build and learn <3
+# shovna here, and this is where I build and learn
 
 ## about
 15 y/o student. self-taught. 
