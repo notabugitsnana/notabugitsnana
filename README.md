@@ -4,7 +4,7 @@
 15 y/o student. self-taught. 
 <br>learning and building little by little.  
 
-<br><br><br>> not a bug, just nana <3
+<br><br>> not a bug, just nana <3
 
 ## socials 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/susanna.soh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:paudyalshovna@gmail.com) 
